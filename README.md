@@ -1,5 +1,5 @@
 # CEnchant1337
-Plugin to enhance items to 1337 level for cuberite
+Plugin for items enhancing to 1337 level for cuberite
 
 Enchant your items to 1337 level.  
 Analog of `Tim the enchanter`.  
